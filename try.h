@@ -7,3 +7,11 @@
 #pragma once
 
 //TODO 加入一些声明与其他库
+void OutLine_1(void);
+void OutLine_2(void);
+
+double CtoF (double);
+
+int LightYears_to_AstronomicalUnits(double);
+
+void OutputTime(int , int);
